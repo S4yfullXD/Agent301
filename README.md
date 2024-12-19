@@ -1,7 +1,7 @@
 # Agent301 BOT
 Agent301 BOT
 
-Register Here : [Agent301](https://t.me/Agent301Bot/app?startapp=onetime1493482017)
+Register Here : [Agent301](https://t.me/Agent301Bot/app?startapp=onetime7012769924)
 
 ## Fitur
 
@@ -22,10 +22,10 @@ Pastikan Anda telah menginstal Python3.9 dan PIP.
 
 1. **Kloning repositori:**
    ```bash
-   git clone https://github.com/vonssy/Agent301-BOT.git
+   git clone https://github.com/S4yfullXD/Agent301.git
    ```
    ```bash
-   cd Agent301-BOT
+   cd Agent301
    ```
 
 2. **Instal Requirements:**
